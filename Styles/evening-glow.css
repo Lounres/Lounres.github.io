@@ -1,0 +1,27 @@
+html {
+    background-color: #ffc300;
+}
+
+/* Header layout. */
+
+header {
+    background-color: #900c3f;
+}
+
+.header {
+    color: #ffc300;
+}
+
+nav {
+    background-color: #c70039;
+}
+
+nav span {
+    color: #ffc300;
+}
+
+/* Main content layout. */
+
+article {
+    background-color: #ff5733;
+}
